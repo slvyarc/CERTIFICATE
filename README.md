@@ -15,7 +15,8 @@ This repository contains links to my technical certifications obtained from Cour
 9. [DeepLearning.AI TensorFlow Developer Professional Certificate](https://coursera.org/share/c81ccd55b7cf44996ac041466fdb3898)
 10. [Structuring Machine Learning Projects](https://coursera.org/share/0784598a72f12d1e72140740f2a832c3)
 11. [TensorFlow: Data and Deployment Specialization](https://coursera.org/share/41edbf436c763139822ffad02025f125)
-12. [Generative AI for Everyone](https://coursera.org/share/945790c2bf57e5a9a12d43438edd3b71)
+12. [TensorFlow: Advanced Techniques Specialization](https://coursera.org/share/247078236261558082741e8067d452eb)
+13. [Generative AI for Everyone](https://coursera.org/share/945790c2bf57e5a9a12d43438edd3b71)
 
 ## Dicoding Certifications
 
